@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Belajar Login Facebook</string>
+    <string name="facebook_app_id">2219280654976371</string>
+    <string name="fb_login_protocol_scheme">fb2219280654976371</string>
+</resources>
